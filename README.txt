@@ -1,18 +1,8 @@
-{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf600
-{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
-{\colortbl;\red255\green255\blue255;}
-{\*\expandedcolortbl;;}
-\margl1440\margr1440\vieww10800\viewh8400\viewkind0
-\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\pardirnatural\partightenfactor0
+This repository contains Gwen and Grace’s EAS4610 Final Project. 
 
-\f0\fs24 \cf0 This repository contains Gwen and Grace\'92s EAS4610 Final Project. \
-\
-To view, open:\
-SoilTransportFinal.mlx\
-\
-To run, download and place in your MATLAB path:\
-\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\pardirnatural\partightenfactor0
-\cf0 slope1.mat\
-\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\pardirnatural\partightenfactor0
-\cf0 slope_central_peak.mat\
-}
+To view, open:
+SoilTransportFinal.mlx
+
+To run, download and place in your MATLAB path:
+slope1.mat
+slope_central_peak.mat
